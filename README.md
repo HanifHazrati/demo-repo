@@ -7,3 +7,10 @@ some meaningless random text!!
 
 
 watch tutotial on Youtube!
+
+
+
+## local dev
+
+
+1. open something
